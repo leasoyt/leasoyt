@@ -14,5 +14,5 @@ Welcome to my GitHub profile! Here's a bit about me:
 - Tools: Git, Docker, Supabase
 
 ## 📫 Contact Me
-- Email: your_email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- Email: leasoyt@gmail.com
+- LinkedIn: https://www.linkedin.com/in/leandro-escudero-3b022b20a/
