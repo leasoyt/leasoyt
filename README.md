@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 - 🚀 I'm looking for opportunities to grow and collaborate on exciting tech projects.
 
 ## 🌟 Skills
-- JavaScript | TypeScript | Python
+- JavaScript | TypeScript 
 - Frameworks: React, Node.js, NestJS
 - Database Management: PostgreSQL, MongoDB
 - Tools: Git, Docker, Supabase
