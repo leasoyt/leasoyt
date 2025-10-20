@@ -15,7 +15,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 ## 📫 Contact Me
 - Email: leasoyt@gmail.com
-- LinkedIn: https://www.linkedin.com/in/leandro-escudero-3b022b20a/
+- LinkedIn: https://www.linkedin.com/in/leandro-escudero-dev
 
 ## Contributions
 - [Active: Frontend ](https://github.com/Active04-star/Frontend) 
